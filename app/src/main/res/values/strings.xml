@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="login">Login</string>
+    <string name="loginID">Enter login ID</string>
+    <string name="password">Enter password</string>
+    <string name="signUp">Sign Up!</string>
+    <string name="wrongCredentials">Either login id or password is wrong. Please try again!</string>
+
+    <string name="loginIDScreenUserProfile">LoginID:</string>
+    <string name="existingLoginId">This LoginID already exists. Please enter a new LoginID.</string>
+    <string name="fname">First Name:</string>
+    <string name="lname">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="invalidEmail">Please enter a valid email address.</string>
+    <string name="phone">Phone:</string>
+    <string name="passwordScreenUserProfile">Password:</string>
+    <string name="invalidPassword">Password must have minimum 8 characters.</string>
+    <string name="confirmPassword">Confirm Password:</string>
+    <string name="invalidconfirmPassword">Both the passwords dont match.</string>
+    <string name="save">Save</string>
+</resources>
